@@ -18,10 +18,5 @@
         "psr-4": {
             "Inferno\\InfernoBlocks\\": "src/"
         }
-    },
-    "extra": {
-        "expose": [
-            "client"
-        ]
     }
 }
